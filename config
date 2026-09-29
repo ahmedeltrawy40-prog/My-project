@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Ahmed Eltrawy
+	email = ahmedeltrawy40@gmail.com
+[remote "genspark"]
+	url = https://www.genspark.ai/sb-git/me/genspark-ffea67e0-69ca-4df2-9134-9b589b0316db.git
+	fetch = +refs/heads/*:refs/remotes/genspark/*

@@ -1,0 +1,8 @@
+Redesign marketing portfolio into premium editorial RTL site from design handoff
+
+- Rebuild Hono page (src/index.tsx) with exact content parity (0 tokens changed)
+- Port design system tokens/CSS to public/static/styles.css
+- Port reveal/lightbox/parallax/video behavior to public/static/app.js
+- Copy 21 handoff assets into public/assets
+- RTL Arabic (Alexandria/IBM Plex Sans Arabic), inline SVG favicon
+- Verify: 100% text/class/id/asset parity vs design reference; no console errors
